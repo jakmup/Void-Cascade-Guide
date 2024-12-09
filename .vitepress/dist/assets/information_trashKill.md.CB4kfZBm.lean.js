@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.DtMx7FFi.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"information/trashKill.md","filePath":"information/trashKill.md"}'),r={name:"information/trashKill.md"};function o(n,i,s,c,l,m){return e(),a("div")}const _=t(r,[["render",o]]);export{p as __pageData,_ as default};

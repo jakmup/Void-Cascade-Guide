@@ -1,7 +1,11 @@
 import { defineConfig } from 'vitepress'
+//import vue from '@vitejs/plugin-vue'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  vite: {
+    //plugins: [vue()]
+  },
   title: "Void Cascade Guide",
   description: "A Void Cascade Guide",
   themeConfig: {
@@ -109,7 +113,7 @@ export default defineConfig({
           items: [
             { text: 'Welcome', link: '/builds/welcome'},
             { text: 'Loadout', link: '/builds/loadout'},
-            
+
           ]
         }
       ]

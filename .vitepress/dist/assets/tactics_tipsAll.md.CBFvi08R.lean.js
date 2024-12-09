@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DtMx7FFi.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tactics/tipsAll.md","filePath":"tactics/tipsAll.md"}'),s={name:"tactics/tipsAll.md"};function c(r,i,o,l,n,p){return a(),e("div")}const m=t(s,[["render",c]]);export{d as __pageData,m as default};
