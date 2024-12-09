@@ -4,22 +4,23 @@ layout: home
 
 hero:
   name: "Void Cascade Guide"
-  text: "Lorem Ipsum"
-  tagline: My great project tagline
+  tagline: A personal guide by Mup
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Let's Go!
+      link: /information/welcome
     - theme: alt
-      text: API Examples
+      text: Exolizer Purged!
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Void Cascadeeeeeeeeeee
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Fundamentals
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+    link: ''
+  - title: Tactics
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: ''
 ---
 
