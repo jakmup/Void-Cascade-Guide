@@ -1,10 +1,12 @@
 # Optimised Thrax Killing
 
-:::info **Thrax Physical Form**
+This section of the guide will explain in further detail on the optimal Thrax killing method.
+
+## **Thrax Physical Form**
 
 There are some high performing weapons that are well known and frequently used in the Void Cascade community for their optimal damage output:
 
-- Laetum
+- Laetum + Xata's Whisper
 - Dual Toxocyst
 - Furis
 - 12x Combo Melee Heavy Attacks
@@ -12,29 +14,31 @@ There are some high performing weapons that are well known and frequently used i
 
 And yes, no primaries, shit is fucked.
 
-:::
+:::info Further Explanation:
 
-## **Laetum + Xata's Whisper**
+- **Laetum + Xata's Whisper**
 
 Although the double-dipping from the Devouring Attrition evolution has been removed, Laetum has a great damage output on its own, and Xata's Whisper, being Void damage, is still a great subsume vs Void-vulnerable Thrax. This also remains an accessible option for newer players, due to the time-gated access of other Incarnon Genesis weapons in the Duviri Circuit.
 
-## **Dual Toxocyst**
+- **Dual Toxocyst**
 
 Dual Toxocyst has a great damage output, both for single target and trash clearing. It works well modded for Corrosive alongside two Corrosive Emerald Shards for armour strip, and is often paired with a Nourish subsume for Viral. Scourge is often used with it for easier headshots.
 
-## **Furis**
+- **Furis**
 
 Furis likewise has a great damage output, and very quickly stacks an immense amount of Heat DoTs. Roar is a good subsume for double dipping these DoTs. Scourge can help with easier headshots.
 
-## **12x Combo Melee Heavy Attacks (Normal or Slam)**
+- **12x Combo Melee Heavy Attacks (Normal or Slam)**
 
 Melee Crescendo and/or Tennokai make this method much easier to use and maintain than in the past. Wrathful Advance as a subsume can help, but is not required. Finishers for Crescendo can be easily stacked through Aero mods, Dizzying Rounds on Bronco, and Mercy kills on Eximus and heavy units.
 
-## **Exodia Contagion Zaws**
+- **Exodia Contagion Zaws**
 
 Contagion Zaws typically rely on stacking many conditional buffs that have a multiplicative effect, such as Vigorous Swap, Arcane Arachne, and Condition Overload, but a Wrathful Advance subsume can make them more accessible with greater flexibility.
 
-:::info **Thrax Spectral Form**
+:::
+
+## **Thrax Spectral Form**
 
 - Eternal Eradicate and Eternal Onslaught will give you the best damage output on your Amp.
 - Headshots and guaranteed crits from Onslaught will make an enormous difference in your damage and TTK.

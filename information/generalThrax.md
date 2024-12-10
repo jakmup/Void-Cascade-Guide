@@ -12,7 +12,9 @@ At 65 Exolizers and below, most Steel Path modded weaponry and any crafted Amp o
 
 ## **General Thrax Killing**
 
-:::info **Thrax Physical Form**
+This section of the guide will cover the general information needed to kill Thrax.
+
+## **Thrax Physical Form**
 
 - Use strong single-target weaponry.
 - Armour strip is recommended if not using armour-bypassing damage.
@@ -21,16 +23,18 @@ At 65 Exolizers and below, most Steel Path modded weaponry and any crafted Amp o
 - Due to their Overguard, Thrax cannot be traditionally crowd controlled, but up to 4 Cold procs can be applied to slow them down for easier headshots.
 - If Thrax's attack abilities are causing you trouble, you can prevent them from using them with Silence.
 
-:::
 
-:::info **Thrax Spectral Form**
+
+## **Thrax Spectral Form**
 
 - Headshots will greatly improve your Amp damage. After a Thrax completes its spinning Spectral animation, it will always be facing in the same direction as its Physical form "died" - use the animation to prepare and position yourself.
 - If a Spectral form gets away from you before you manage to kill it, it will become extra vulnerable to damage while it tries to absorb a nearby unit to regenerate itself (colloquially known as The Slurpee). Use this short window as an opportunity to finish the job.
 - Operators are vulnerable and cannot use Void Mode while shooting. This means you want to focus on short bursts of high damage, rather than longer sustained DPS, to minimise the amount of time your Operator is in the open and getting shot at.
 - Once upon a time, Viral stacks carried from the Physical form over to the Spectral form. As this is no longer the case, Madurai's damage output shines very high above the other Focus Schools.
 
-:::
+
+
+
 
 
 
