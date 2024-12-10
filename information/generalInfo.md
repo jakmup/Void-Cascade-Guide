@@ -1,6 +1,11 @@
 # General Mission Information
 
+
 The tileset will spawn three large rooms, with connecting corridors. These large rooms - A, B, C - are where your Exolizers will spawn. This is your Exolizer Rotation. An Exolizer spawns possessed, and you must shoot/void sling the void tears with your Operator, then the central ghostly Thrax, in order to purge it. A purged Exolizer spits out a Thrax Centurion, and more Thrax will spawn regularly during the mission to re-possess purged Exolizers. (Note that only Centurions can take them back, Legatus just exist to be a nuisance.) Good or bad objective management determines mission success in Void Cascade.
+
+<div style="display: flex;">
+    <img src="/images/rotation.png" alt="rotation"/>
+</div>
 
 ## **Round Completion**
 
