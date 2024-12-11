@@ -137,3 +137,19 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+.table-1 {
+  width: 768px;
+  margin: 0 auto;
+  font-size: 14px;
+};
+
+table th, table td {
+  word-wrap: break-word;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  table {
+    font-size: 14px; /* Reduce font size for smaller screens */
+  }
+}

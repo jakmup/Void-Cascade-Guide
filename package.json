@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
-    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.11.1"
+    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.11.1",
+    "simple-lightbox": "^2.1.0"
   }
 }

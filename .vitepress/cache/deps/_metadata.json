@@ -1,44 +1,56 @@
 {
-  "hash": "98c6a121",
+  "hash": "c971542b",
   "configHash": "77aa5461",
-  "lockfileHash": "1e4af9da",
-  "browserHash": "97f440f6",
+  "lockfileHash": "7cce48f5",
+  "browserHash": "7e7a188a",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "8ca749cc",
+      "fileHash": "09b902dc",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "90435d3e",
+      "fileHash": "81a05d93",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "d0b41249",
+      "fileHash": "fa7119d2",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "6adaec39",
+      "fileHash": "c2147779",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "389fa4e6",
+      "fileHash": "e6124ce6",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "47fa2528",
+      "fileHash": "1dc7f0a0",
       "needsInterop": false
+    },
+    "@nolebase/vitepress-plugin-highlight-targeted-heading/client": {
+      "src": "../../../node_modules/@nolebase/vitepress-plugin-highlight-targeted-heading/dist/client/index.mjs",
+      "file": "@nolebase_vitepress-plugin-highlight-targeted-heading_client.js",
+      "fileHash": "58e419c3",
+      "needsInterop": false
+    },
+    "simple-lightbox": {
+      "src": "../../../node_modules/simple-lightbox/src/simpleLightbox.js",
+      "file": "simple-lightbox.js",
+      "fileHash": "ce9a509c",
+      "needsInterop": true
     }
   },
   "chunks": {
@@ -47,6 +59,9 @@
     },
     "chunk-VJWGEPT5": {
       "file": "chunk-VJWGEPT5.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
     }
   }
 }
